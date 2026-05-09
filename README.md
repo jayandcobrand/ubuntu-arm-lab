@@ -11,7 +11,8 @@
   - Linux CLI fundamentals                                                                                                                                                                           
   - Networking tools (nmap, tcpdump, netstat, ss)
   - Firewall configuration (ufw)                                                                                                                                                                     
-  - SSH setup and key management                                                                                                                                                                     
+  - SSH setup and key management                                                                                - General web development
+  - DevOps                                                                                    
                                                                                                                                                                                                      
   ## Labs                                                                                                                                                                                            
   *Coming soon*   
